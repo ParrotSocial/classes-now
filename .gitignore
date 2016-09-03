@@ -4,6 +4,8 @@ logs
 
 .vscode
 
+elm-stuff
+
 # Coverage directory used by tools like istanbul
 coverage
 
